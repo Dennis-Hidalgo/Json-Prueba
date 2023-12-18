@@ -1,7 +1,10 @@
 {
-   "nombres":{
-      "a":"aaaaaaaaaaa",
-      "b":"bbbbbbbbbbbb",
-      "c":"ccccccccccc"
-   }
+   "nombres":[
+      {
+         "a":"aaaaaaaaaaa"
+      },
+      {
+         "b":"bbbbbbbbbbbb"
+      }
+   ]
 }
