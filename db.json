@@ -1,9 +1,4 @@
 {
-   "nombres":[
-      {
-         "a":"aaaaaaaaaaa",
-         "b":"bbbbbbbbbbbb",
-         "c":"cccccccccccc"
-      }
-   ]
+   "1":"aaaaaaaa",
+   "2":"bbbbbbbb"
 }
